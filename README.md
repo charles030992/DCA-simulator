@@ -26,6 +26,9 @@ v0.1 - Basic DCA simulator with CAGR and max drawdown
   - unidades acumuladas
 - Gráfico de capital aportado vs valor de cartera
 
+-Despues te pide si quieres exportar un CSV para comprobarlo con numeros y jugar ocn las graficas,,,
+Esta optimizado par apoder gestionarlo desde excel en ESPAÑA.
+
 ## Instalación
 
 ```bash
