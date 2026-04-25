@@ -36,8 +36,10 @@ python -m venv .venv
 .venv\Scripts\activate
 pip install -r requirements.txt
 
+```md
 ## Uso
 
+```bash
 python main.py
 
 ## Ejemplo
